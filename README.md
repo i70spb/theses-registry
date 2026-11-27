@@ -1,4 +1,18 @@
-Оглавление
+Оглавление https://raw.githubusercontent.com/i70spb/theses-registry/main/%D0%BB%D0%B8%D0%BD%D0%B7%D1%8B_00.md
+
+· https://raw.githubusercontent.com/i70spb/theses-registry/main/%D0%BB%D0%B8%D0%BD%D0%B7%D1%8B_01.md
+
+линзы_00.md:
+
+```
+#линзы #реестр #правила #дуэль #bias #суд_присяжных
+```
+
+линзы_01.md:
+
+```
+#линзы #позиции #верификация #26_линз #порог_мастера #дуэли
+...
 https://raw.githubusercontent.com/i70spb/theses-registry/main/каталог_детских_правил.md
 #детские_правила #каталог #D_core #D_soc #соматическое_подкрепление #ловушки #диагностика #сепарация #P_heat #Som
 ...
