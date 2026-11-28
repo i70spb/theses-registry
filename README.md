@@ -13,6 +13,13 @@
 ```
 #линзы #позиции #верификация #26_линз #порог_мастера #дуэли
 ...
+https://raw.githubusercontent.com/i70spb/theses-registry/main/линзы_001.md
+
+https://raw.githubusercontent.com/i70spb/theses-registry/main/линзы_002.md
+
+https://raw.githubusercontent.com/i70spb/theses-registry/main/линзы_003.md
+
+
 https://raw.githubusercontent.com/i70spb/theses-registry/main/каталог_детских_правил.md
 #детские_правила #каталог #D_core #D_soc #соматическое_подкрепление #ловушки #диагностика #сепарация #P_heat #Som
 ...
